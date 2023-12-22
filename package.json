@@ -16,7 +16,8 @@
     "appId": "com.heynote.app",
     "generateUpdatesFilesForAllChannels": true,
     "directories": {
-      "buildResources": "resources"
+      "buildResources": "resources",
+      "output": "dist"
     }
   },
   "repository": {
